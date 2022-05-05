@@ -1,4 +1,14 @@
 .footer__links-list-item {
   display: inline;
-  margin-right: 18px;
+  margin-right: 17px;
+}
+
+@media screen and (max-width: 500px) {
+  .footer__links-list-item {
+  display: block;
+  margin-bottom: 32px;
+  }
+  .footer__links-list-item:last-child {
+    margin-bottom: 0;
+  }
 }

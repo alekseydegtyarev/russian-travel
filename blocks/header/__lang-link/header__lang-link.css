@@ -8,3 +8,15 @@
   text-align: right;
   text-decoration: none;
 }
+
+.header__lang-link:hover {
+  opacity: .8;
+  transition: opacity .5s ease;
+}
+
+@media screen and (max-width: 500px) {
+  .header__lang-link {
+    font-size: 20px;
+    line-height: 1.11;
+  }  
+}
