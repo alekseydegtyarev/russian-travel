@@ -1,4 +1,19 @@
 .lead {
   margin: 56px auto 0;
-  max-width: 984px;
+  max-width: calc(100% - 2*148px);
+}
+
+@media screen and (max-width: 1100px) {
+  .lead {
+    margin-top: 48px;
+    max-width: calc(100% - 2*48px);
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  .lead {
+    margin-top: 48px;
+    max-width: 100%;
+  }
 }
