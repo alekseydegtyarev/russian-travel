@@ -20,7 +20,7 @@
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .place {
     margin-top: 50px;
     gap: 32px;

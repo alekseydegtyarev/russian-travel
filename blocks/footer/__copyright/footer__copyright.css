@@ -9,7 +9,7 @@
   margin: 0;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .footer__copyright {
     line-height: 1;
     align-self: start;

@@ -1,7 +1,7 @@
 @import url(./normalize.css);
 
 @import url(../vendor/fonts.css);
-/*основные точки перехода 1100, 800,500 */
+/*основные точки перехода 1100, 800,510 */
 
 @import url(../blocks/page/page.css);
 
@@ -16,7 +16,6 @@
 @import url(../blocks/lead/lead.css);
 /* переход на 735 */
 @import url(../blocks/lead/__title/lead__title.css);
-/* переход на 510 */
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);

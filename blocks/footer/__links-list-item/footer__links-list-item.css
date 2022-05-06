@@ -3,7 +3,7 @@
   margin-right: 17px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .footer__links-list-item {
   display: block;
   margin-bottom: 32px;
